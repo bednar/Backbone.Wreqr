@@ -3,7 +3,7 @@
 
 ### Supported Versions
 
-|   Backbone.Wreqr  |   Backbone.Wreqr  |
+|   Backbone.Wreqr  |   Maven  |
 |:-----------------:|:-----------------:|
 |       0.2.0       |       0.2.0       |
 
